@@ -353,6 +353,12 @@ footer .container {
     background-size: cover;
 }
 
+.picture{
+    width: parent;
+    height: parent;
+    border-radius: 50%;
+}
+
 .member h3 {
     margin-bottom: 5px;
     color: var(--primary-color);
